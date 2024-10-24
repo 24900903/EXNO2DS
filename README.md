@@ -1,4 +1,4 @@
-![15](https://github.com/user-attachments/assets/fbb0e47d-438a-4550-9761-717a021bf5aa)![14](https://github.com/user-attachments/assets/18bdbd59-a5ba-4f04-85bb-f1c28f2964da)# EXNO2DS
+
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
