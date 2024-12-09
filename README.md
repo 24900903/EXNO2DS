@@ -23,22 +23,21 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT)
-![1](https://github.com/user-attachments/assets/eea17dca-0511-426d-9ae3-5632d67ac5e7)
-![2](https://github.com/user-attachments/assets/10be4fce-bfc6-4ee6-8a35-ea33b78dd029)
-![3](https://github.com/user-attachments/assets/61299979-abd7-4895-842e-1f986a97cc50)
-![4](https://github.com/user-attachments/assets/dba7458b-48ea-4e9f-b7c5-177b0295528d)
-![5](https://github.com/user-attachments/assets/d707ca6f-c4de-492a-b060-ac57f985f116)
-![6](https://github.com/user-attachments/assets/1720d7be-b623-4cc8-b709-eb886e171095)
-![7](https://github.com/user-attachments/assets/ba73ed70-a95e-4489-a089-7a9f45e4718d)
-![8](https://github.com/user-attachments/assets/c0261633-3787-4049-9d06-a927db5926ef)
-![9](https://github.com/user-attachments/assets/f3d60136-b3a5-4e09-83d7-7fe0842f3937)
-![10](https://github.com/user-attachments/assets/d274bbab-5c47-40c9-be28-1e8dbcf22214)
-![11](https://github.com/user-attachments/assets/de28e2f0-4138-427c-b6b6-e7644e44c214)
-![12](https://github.com/user-attachments/assets/fce1c448-f49c-4f4b-be52-52d1badbd2f5)
-![13](https://github.com/user-attachments/assets/8fb1f9fc-0790-426f-ab3b-d3145a29e4dd)
-![14](https://github.com/user-attachments/assets/1eed0caf-c95c-4895-8760-dc7d8c42045f)
-![15](https://github.com/user-attachments/assets/f060ae85-c084-4a13-b862-7074e6ce9b13)
-
+![1](https://github.com/user-attachments/assets/a36c4bb4-c4b9-462c-b209-e6880fec8a1b)
+![2](https://github.com/user-attachments/assets/7a040662-4588-4dd2-814e-0216f4ca6795)
+![3](https://github.com/user-attachments/assets/8e91f5c5-d6d3-402a-a6eb-2083f2dc5895)
+![4](https://github.com/user-attachments/assets/e93d1d09-f07f-4d0c-8783-a79c2bc44817)
+![5](https://github.com/user-attachments/assets/b6e04545-c4df-4522-874e-3db92900e54e)
+![6](https://github.com/user-attachments/assets/0842e604-ead7-47db-ac73-664f69cab93a)
+![7](https://github.com/user-attachments/assets/384cb709-5de3-4aa0-8483-4a436a881a15)
+![8](https://github.com/user-attachments/assets/d63372cb-5c44-4eff-9d24-464024e5d45b)
+![9](https://github.com/user-attachments/assets/3f0a300e-0658-4e04-9493-9b3d3f53d79a)
+![10](https://github.com/user-attachments/assets/7abb68e6-dfeb-44e3-8bab-0f972d1e5eee)
+![11](https://github.com/user-attachments/assets/92b1d4c7-19ce-4f79-be5c-7880a2721d02)
+![12](https://github.com/user-attachments/assets/1c4e12f9-d4fe-4d0c-8cb4-ef76c1479fb3)
+![13](https://github.com/user-attachments/assets/a1dc3edc-0cb5-461a-9ea7-3ea18264c035)
+![14](https://github.com/user-attachments/assets/515c8d85-cf7a-4c32-8924-367eb5617591)
+![15](https://github.com/user-attachments/assets/d8a7f5a0-5544-4e38-9d72-0e1eb6507730)
 
 # RESULT
         performed the Exploratory Data Analysis on the given data set.
